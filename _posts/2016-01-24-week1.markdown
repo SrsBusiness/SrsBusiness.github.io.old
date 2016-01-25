@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Week 1"
+date:   2016-01-24 15:18:14
+categories: CS373
+---
+
+The first week of class was rather uneventful: mainly buying textbooks,
+adding/dropping courses, and getting used to the routines of all my
+classes. In Software Engineering, we mainly went over some basic Python
+code as a class. The professor would call on random students to answer
+questions about the code. It is obvious that participation will be
+important for this class, as well as knowledge of Python. I've known some
+Python for a while now so I don't think that will be an issue.
+
+This semester will be especially challenging for me. As someone hoping to
+graduate this May, this semester I am trying to fulfill the rest of my degree
+requirements. For me this means courses outside of the Computer Science
+Department. The biggest issue I foresee is staying engaged in all my classes,
+even the ones I am less interested in.
+
+Next week classes will be moving faster so I plan to start on readings and
+assignments, such as the Collatz lab for this class.
+
+On another note, I was reminded this week that software is created by people
+and as a result it isn't perfect. To install Jekyll I used RubyGems, the
+package manager for the Ruby programming language. Instead of installing
+Jekyll directly, I installed the 'github-pages' gem (Ruby package), which 
+includes Jekyll as a dependency. Jekyll requires a Javascript environment on
+your system such as Node.js or the 'therubyracer' gem. This however was not
+included in the dependency tree of github-pages, which was somewhat annoying.
+
+###Tip of the Week###
+[cmocka - Unit Testing for C](https://cmocka.org)\\
+I discovered this over the summer. Since I do a lot of C programming for fun I
+found this pretty useful.
+
